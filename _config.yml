@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Random deep-dives about tech, finance, product management, and hobbies.
 twitter_username: dseemakurty
 github_username: dseemakurty
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
@@ -58,11 +58,12 @@ plugins:
 author:
   name   : "Dinesh Seemakurty"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Random deep-dives about tech, finance, product management, and hobbies."
+  bio    : "Random deep-dives about tech, finance, product management, and hobbies. 
+  \n \n Product @BrexHQ. Ex-CEO of @StasisLabs. Bullish on fintech and health."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dseemakurty"
