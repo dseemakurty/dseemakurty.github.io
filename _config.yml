@@ -27,7 +27,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -59,7 +59,7 @@ author:
   name   : "Dinesh Seemakurty"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Random deep-dives about tech, finance, product management, and hobbies. 
-  \n \n Product @BrexHQ. \n \n Ex-CEO of @StasisLabs."
+  \n \n Product [@BrexHQ](https://twitter.com/brexHQ). \n \n Ex-CEO of [@StasisLabs](https://twitter.com/stasislabs)."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -113,6 +113,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
