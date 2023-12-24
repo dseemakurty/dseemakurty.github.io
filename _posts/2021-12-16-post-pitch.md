@@ -1,31 +1,20 @@
 ---
 title: "How to Upgrade your Pitch beyond 'Start with Why'"
-date: 2019-04-18T15:34:30-04:00
+date: 2021-12-16
 categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+  - startups
+# tags:
+#   - Jekyll
+#   - update
 ---
 
-# How to Upgrade your Pitch beyond "Start with Why"
-
-> <br> 
-> TLDR:
-> 
-> → A pitch that only explains the end vision leaves the listener to convince themselves.
-> 
-> → A listener's mind will naturally generate disbeliefs that lead them to not want to invest time or money in the story.
-> 
-> → You can upgrade your pitch by converting a linear narrative into an exponential vision.
-> 
-> → An exponential vision does 3 key things:
+> ### TLDR:
+> Upgrade your pitch by converting a linear narrative into an exponential vision by:
 > 1. Connect emotionally with the listener by "Start with Why". 
 > 2. Tackle the disbeliefs that will naturally form by clearly articulating why "Reality is Slow"
 > 3. Become investable of the listener's time and money by explaining how you can become "Faster than Fast"  
->  <br> 
-
 <br> 
+
 Founders lose 90% of their possible champions because of their pitch.
 
 Most pitches explain the end vision clearly, but leave the listener to convince themselves into becoming a believer. 
