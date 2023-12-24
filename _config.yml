@@ -59,7 +59,7 @@ author:
   name   : "Dinesh Seemakurty"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Random deep-dives about tech, finance, product management, and hobbies. 
-  \n \n Product @BrexHQ. Ex-CEO of @StasisLabs. Bullish on fintech and health."
+  \n \n Product @BrexHQ. Ex-CEO of @StasisLabs."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -95,9 +95,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
