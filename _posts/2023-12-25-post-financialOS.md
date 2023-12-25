@@ -61,7 +61,7 @@ Ask your financial advisor/brokerage about these.
 
 Efficient cash flow is crucial. I streamlined this process using Fidelity, which offers a high-interest money market fund (MMF) and a standard checking account with competitive interest rates. This setup ensures that my funds are always earning interest and readily available for investments or expenses. This setup also helped me eliminate unnecessary accounts & waiting for my transfers between accounts to "settle".
 
-While many companies offer different accounts, Fidelity is the only one that automates money movement between them. Their free overdraft functionality  automatically pulls money from my brokerage if my checking account can't meet a large expense. It also automatically refills my checking account to ensure there is enough for standard expenses. These types of features free the mind.
+While many companies offer different accounts, Fidelity is the only one that automates money movement between them. Their free overdraft functionality  automatically pulls money from my brokerage if my checking account can't meet a large expense. It also automatically refills my checking account to ensure there is enough for standard expenses. These features eliminate micro-actions.
 
 Fidelity also provides API-based data sharing, which is significantly more secure than traditional screen-scraping methods (like Plaid)[^2].
 
@@ -70,47 +70,52 @@ Fidelity also provides API-based data sharing, which is significantly more secur
 Lastly there are no minimums or any fees to worry about and can dramatically eliminate vendors.
 
 **Banks are not necessarily better** 
-Fintechs now offer more than $250k FDIC by distributing your funds across multiple accounts. FDIC is valuable because banks invest your money out, however Fintechs that use MMF's are even safer. Money Market Funds have to buy safer assets and maintain higher liquidity and don't give out consumer loans. Storing your money in MMFs also means faster response time to increases in interest rates.
+After the SVB debacle in 2023, fintechs now offer more than $250k FDIC by automatically distributing your funds across multiple accounts. FDIC insurance is valuable only because banks invest your money out, and can over-leverage themselves.  Fintechs often store deposits in Money Market Funds because they aren't in the lending business. MMF's are safer than bank deposits because they have to buy safer assets (ie. treasuries) and maintain higher liquidity ratios. They arent allowed to give out consumer loans and, by nature, respond much faster to changes in real interest rates.
 
 
 ## Spend Management Strategy
 **Credit cards:**
-There are tons of websites to compare them, but really the tenets are simple. 
-1. You should be getting ~2% back on a majority of your spend. Most cards use categories to confuse you. The only category to optimize for is Travel (if you play to travel significantly).
-2. Pick a card that has a good data-sharing API if you want to leverage other services to manage your spend.
+There are tons of websites to compare offerings, but really the tenets are simple. 
+1. You should be averaging 2% back on a majority of your spend. Most cards use categories to confuse you. The only category to optimize for is Travel (if you plan to travel significantly).
+2. Pick a card that has a good data-sharing API if you want to leverage other services to manage your spend. Looking at you Apple Card.
 
-Cards with annual fees are luxury purchases. Its a tall order to recover even a \$200 fee with points. An extra 1% means you have to spend \$20k to break even. So run the numbers before being tempted. 
+Cards with annual fees are luxury purchases. It is a tall order to recover even a \$200 fee via points. An extra 1% means you have to spend \$20k to break even. So run the numbers before being tempted. 
+
+Certain features like travel insurance, car rental primary insurance, and purchase protections are worth consideration. Pay off your balance every month. If you get an 0% APR card, remember that racking up credit utilization will temporarily drop your FICO score, but once you clear the liability, your score will likely improve.
 
 **Categorization:**
-I use Monarch Money to bucket all my expenses. While most credit cards categorize spending into standard types, I prefer categorizing based on the "intent" of the expenditure. For example, an uber to work is different than an uber to dinner or an uber to pickup my friends. 
+I use Monarch Money to bucket all my transactions. While most credit cards categorize spending into standard types, I prefer categorizing based on the "intent" of the expense. For example, an Uber to work is different than an Uber to dinner. Amazon for groceries is different than Amazon for black-friday.
 
 My categories are simple:
 1. Life Admin: Miscellaneous but necessary expenses & bills. These are unavoidable and part of routine life management.
 2. Home: Costs associated with maintaining a healthy home life, including groceries. No regrets here.
 3. Adventure: Discretionary expenses for enjoyment and leisure activities.
-4. Items: Expenditures on physical goods that depreciate over time, such as clothing and furniture.
+4. Items: Expenditures on depreciating physical goods, such as clothing and furniture.
 5. Gifts: Spending on others, encompassing all forms of gifts.
 6. Time: Subscription services that help me enjoy my time.
 7. Vacation: Holiday expenses which should not impact other monthly financial metrics.
 
 I find this form of spend tracking easier to maintain as it differentiates essential expenses from discretionary spend.
 
-Bucketing your expenses does not have to be to controls your expenses. Forcing yourself to spend in certain categories can be a positive experience (for example a health and fitness bucket).
+Bucketing your expenses does not mean you have to "live on a budget". Buckets can also force you to spend on categories that are being under-invested (ex: a health and fitness bucket).
 
-## Why I choose Fidelity
+## Why I chose Fidelity
 
 **Pros:**
 * Simple recurring investments to DCA even to a daily level
-* Fractional buys of all ETFs - allows you to focus on the dollars going into the market instead of the quantity of shares[^5].
-* Faster liquidity - ACH transfers are ready to invest
+* Fractional buys of all ETFs and stocks - allows you to focus on the dollars going into the market instead of rounding to whole shares[^5].
+* Faster liquidity - ACH transfers are ready to invest even before they settle
 * Sweep to 5% on brokerage and retirement accounts, 2.5% on checking account
-* Automatically overdraft from sweep account
+* Automatically over-draft from sweep account to checking account
 * Good API level data sharing and standard 2FA security
+* Amazing customer service. Free financial consultants who actually spend time with you.
+* Free net-worth, retirement planning, asset allocation, and basic spend software baked in.
 
-[^5]: Shares will round down to the closes 0.001 share for the dollars invested
+[^5]: Note: shares will round down to the closes 0.001 share for the dollars invested so this can lead to a miniscule amount of under-buying per transaction.
 
 **Improvements:**
 * Their credit card product has strong rewards with 2% flat on all categories, but their partner bank Elan may need to improve their of customer service.
-* Their app is solid, but shows your your entire portfolio without offering a primary view of just your cash/checking account.
+* Their app is solid, but shows your entire portfolio without offering a primary view of just your cash/checking account.
+* Their website design is stuck between their old design and new design on different pages.
 
 ---
