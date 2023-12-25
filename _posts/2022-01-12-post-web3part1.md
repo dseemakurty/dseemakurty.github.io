@@ -1,7 +1,7 @@
 ---
-title: "Part 1: Web3 and the Creation of Forever Software"
+title: "Part 1: The Creation of Forever Software"
 categories:
-  - web3
+  - internet
 # tags:
 #   - Jekyll
 #   - update

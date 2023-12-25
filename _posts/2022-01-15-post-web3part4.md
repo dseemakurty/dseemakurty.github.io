@@ -1,7 +1,7 @@
 ---
 title: "Part 4: Architecting “Forever Software” Today"
 categories:
-  - web3
+  - internet
 ---
 
 The idea of “forever software” speaks to me because I spent years of my life working to provide technological solutions to a challenging market segment. I focused on bringing IoT medical devices and cloud software solutions to emerging market hospitals. It was straining to see the divide of what the customer would say, and how they would actually buy. Or more importantly, how they wouldn’t be able to buy.

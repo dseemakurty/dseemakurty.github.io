@@ -1,7 +1,7 @@
 ---
 title: "Part 5: The Future of Forever Software"
 categories:
-  - web3
+  - internet
 ---
 
 I believe there will be a creation of a new wave of software that can leverage the cheaper trust that is achieved through the web3 stack targeting new business opportunities. These opportunities will be identified as those that are not limited by technology, but limited by trust. Early signs of that trust deficit in your customer base will be revealed as: golden handcuffs, fear of being early, cost-sensitivity to TCO. 

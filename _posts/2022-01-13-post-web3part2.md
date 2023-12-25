@@ -1,7 +1,7 @@
 ---
 title: "Part 2: “Forever Data” unlocks a Global Marketplace"
 categories:
-  - web3
+  - internet
 # tags:
 #   - Jekyll
 #   - update

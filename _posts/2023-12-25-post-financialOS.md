@@ -70,6 +70,7 @@ Fidelity also provides API-based data sharing, which is significantly more secur
 Lastly there are no minimums or any fees to worry about and can dramatically eliminate vendors.
 
 **Banks are not necessarily better** 
+
 After the SVB debacle in 2023, fintechs now offer more than $250k FDIC by automatically distributing your funds across multiple accounts. FDIC insurance is valuable only because banks invest your money out, and can over-leverage themselves.  Fintechs often store deposits in Money Market Funds because they aren't in the lending business. MMF's are safer than bank deposits because they have to buy safer assets (ie. treasuries) and maintain higher liquidity ratios. They arent allowed to give out consumer loans and, by nature, respond much faster to changes in real interest rates.
 
 
@@ -111,7 +112,7 @@ Bucketing your expenses does not mean you have to "live on a budget". Buckets ca
 * Amazing customer service. Free financial consultants who actually spend time with you.
 * Free net-worth, retirement planning, asset allocation, and basic spend software baked in.
 
-[^5]: Note: shares will round down to the closes 0.001 share for the dollars invested so this can lead to a miniscule amount of under-buying per transaction.
+[^5]: Shares will round down to the closes 0.001 share for the dollars invested so this can lead to a miniscule amount of under-buying per transaction.
 
 **Improvements:**
 * Their credit card product has strong rewards with 2% flat on all categories, but their partner bank Elan may need to improve their of customer service.

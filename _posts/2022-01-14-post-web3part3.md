@@ -1,7 +1,7 @@
 ---
 title: "Part 3: A New Business Model: SaaS to Software-as-a-Token"
 categories:
-  - web3
+  - internet
 ---
 
 I believe we are entering a new phase of software packaging. There is a new business model, selling model, and customer expectation set for products built around decentralization and the blockchain.
