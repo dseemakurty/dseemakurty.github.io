@@ -1,4 +1,9 @@
-# My Personal Finance System: A Reference Guide
+---
+title: "My Personal Finance System: A Reference Guide"
+date: 2023-12-25
+categories:
+  - finance
+---
 
 In the latter half of 2023, I revamped my financial management system to operate more efficiently and autonomously. This guide outlines the tools and strategies I used to streamline my finances.
 
