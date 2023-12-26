@@ -57,7 +57,7 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : "Dinesh Seemakurty"
+  name   : ""
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Random deep-dives about tech, finance, product management, and hobbies. 
   \n \n Principal PM [@BrexHQ](https://twitter.com/brexHQ). \n \n Ex-CEO of [@StasisLabs](https://twitter.com/stasislabs)."
@@ -94,7 +94,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       show_date: true
       date_format: "%B,%-Y"
       read_time: true
