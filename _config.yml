@@ -57,7 +57,6 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : ""
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Random deep-dives about tech, finance, product management, and hobbies. 
   \n \n Principal PM [@BrexHQ](https://twitter.com/brexHQ). \n \n Ex-CEO of [@StasisLabs](https://twitter.com/stasislabs)."
